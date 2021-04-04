@@ -11,10 +11,7 @@ pipeline(
         }
     }
 )
-<<<<<<< HEAD
 
 def getTerraformPath(){
     def tfHome = tool name: 'terraform-12', type: 'terraform'
 }
-=======
->>>>>>> 3aaee4fcf616ddd2232c7f6752252c2fe5e5a52e
